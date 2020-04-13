@@ -17,7 +17,7 @@ class ItemController extends Controller
           ],
           (object) [
               'id' => 2,
-              'name' => 'sample2'
+              'name' => 'sample2',
               'created_at' => now()
           ],
         ];
