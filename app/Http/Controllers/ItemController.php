@@ -22,6 +22,6 @@ class ItemController extends Controller
           ],
         ];
 
-        return view('item.index', ['item' => $item]);
+        return view('items.index', ['item' => $item]);
     }
 }
